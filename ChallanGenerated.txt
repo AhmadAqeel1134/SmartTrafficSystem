@@ -1,0 +1,10 @@
+Challan Generated For Car-> Type :Heavy , Num Plate:KEL4386, Speed:40 km/h, Lane: West, Amount:8190 PKR, Issue Date:08/12/2024, Issue Time:22:19:43, Due Date:11/12/2024
+Challan Generated For Car-> Type :Regular , Num Plate:WRI9996, Speed:60 km/h, Lane: North, Amount:5850 PKR, Issue Date:08/12/2024, Issue Time:22:27:15, Due Date:11/12/2024
+Challan Generated For Car-> Type :Heavy , Num Plate:PRA3761, Speed:40 km/h, Lane: North, Amount:8190 PKR, Issue Date:08/12/2024, Issue Time:22:32:34, Due Date:11/12/2024
+Challan Generated For Car-> Type :Heavy , Num Plate:KEL4386, Speed:40 km/h, Lane: West, Amount:8190 PKR, Issue Date:08/12/2024, Issue Time:22:19:43, Due Date:11/12/2024
+Challan Generated For Car-> Type :Regular , Num Plate:WRI9996, Speed:60 km/h, Lane: North, Amount:5850 PKR, Issue Date:08/12/2024, Issue Time:22:27:15, Due Date:11/12/2024
+Challan Generated For Car-> Type :Heavy , Num Plate:PRA3761, Speed:40 km/h, Lane: North, Amount:8190 PKR, Issue Date:08/12/2024, Issue Time:22:32:34, Due Date:11/12/2024
+Challan Generated For Car-> Type :Heavy , Num Plate:KEL4386, Speed:40 km/h, Lane: West, Amount:8190 PKR, Issue Date:08/12/2024, Issue Time:22:19:43, Due Date:11/12/2024
+Challan Generated For Car-> Type :Regular , Num Plate:WRI9996, Speed:60 km/h, Lane: North, Amount:5850 PKR, Issue Date:08/12/2024, Issue Time:22:27:15, Due Date:11/12/2024
+Challan Generated For Car-> Type :Heavy , Num Plate:PRA3761, Speed:40 km/h, Lane: North, Amount:8190 PKR, Issue Date:08/12/2024, Issue Time:22:32:34, Due Date:11/12/2024
+Challan Generated For Car-> Type :Regular , Num Plate:KON1621, Speed:60 km/h, Lane: South, Amount:5850 PKR, Issue Date:08/12/2024, Issue Time:23:15:59, Due Date:11/12/2024
